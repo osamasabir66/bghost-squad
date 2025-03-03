@@ -10032,3 +10032,8 @@ img.services-icons {
   width: 100%;
   font-weight: bolder;
 }
+
+.dark-btn{
+  color: #fff;
+  background-color: #000;
+  }
