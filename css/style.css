@@ -10037,3 +10037,20 @@ img.services-icons {
   color: #fff;
   background-color: #000;
   }
+
+  .custom-nav{
+    background: rgb(0 0 0 / 65%);
+    padding: 14px;
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 8px;
+  }
+  .custom-nav a{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 25px 15px;
+    color: #fff;
+    outline: none;
+    display: inline;
+}
